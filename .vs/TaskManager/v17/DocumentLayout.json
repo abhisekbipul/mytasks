@@ -1,0 +1,521 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\taskmanager\\admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|c:\\users\\abhisek patra\\source\\repos\\taskmanager\\taskmanager\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\taskmanager\\userdashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\userdashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\taskmanager\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\taskmanager\\userdashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\userdashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\taskmanager\\user.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\user.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\taskmanager\\userperformances.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\userperformances.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\taskmanager\\userperformances.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\userperformances.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\taskmanager\\datewiseperformers.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\datewiseperformers.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\taskmanager\\datewiseperformers.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\datewiseperformers.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\taskmanager\\taskreview.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\taskreview.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\taskmanager\\assignscore.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\assignscore.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\taskmanager\\taskhistory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\taskhistory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\taskmanager\\retask.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\retask.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\taskmanager\\perfomances.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\perfomances.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\taskmanager\\mytask.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\mytask.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\taskmanager\\perfomances.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\perfomances.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\taskmanager\\assignscore.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\assignscore.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\taskmanager\\taskhistory.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\taskhistory.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\taskmanager\\retask.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\retask.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\taskmanager\\taskreview.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\taskreview.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\taskmanager\\mytask.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\mytask.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\taskmanager\\admindashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\admindashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\taskmanager\\user.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\user.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\taskmanager\\assigntask.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\assigntask.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\taskmanager\\assigntask.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\assigntask.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\taskmanager\\css\\style1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\css\\style1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\taskmanager\\unauthorized.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\unauthorized.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\taskmanager\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\taskmanager\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\taskmanager\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B18DF216-3108-4A3B-A108-814677C75C13}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserDashboard.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\UserDashboard.aspx.cs",
+              "RelativeDocumentMoniker": "TaskManager\\UserDashboard.aspx.cs",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\UserDashboard.aspx.cs",
+              "RelativeToolTip": "TaskManager\\UserDashboard.aspx.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T12:34:24.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserPerformances.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\UserPerformances.aspx.cs",
+              "RelativeDocumentMoniker": "TaskManager\\UserPerformances.aspx.cs",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\UserPerformances.aspx.cs",
+              "RelativeToolTip": "TaskManager\\UserPerformances.aspx.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwCMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:47:52.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Admin.Master",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\Admin.Master",
+              "RelativeDocumentMoniker": "TaskManager\\Admin.Master",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\Admin.Master",
+              "RelativeToolTip": "TaskManager\\Admin.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-02T11:39:28.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogIn.aspx",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\LogIn.aspx",
+              "RelativeDocumentMoniker": "TaskManager\\LogIn.aspx",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\LogIn.aspx",
+              "RelativeToolTip": "TaskManager\\LogIn.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-31T07:29:20.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogIn.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\LogIn.aspx.cs",
+              "RelativeDocumentMoniker": "TaskManager\\LogIn.aspx.cs",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\LogIn.aspx.cs",
+              "RelativeToolTip": "TaskManager\\LogIn.aspx.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCsAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T07:10:20.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.Master",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\User.Master",
+              "RelativeDocumentMoniker": "TaskManager\\User.Master",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\User.Master",
+              "RelativeToolTip": "TaskManager\\User.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-02T11:58:42.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserDashboard.aspx",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\UserDashboard.aspx",
+              "RelativeDocumentMoniker": "TaskManager\\UserDashboard.aspx",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\UserDashboard.aspx",
+              "RelativeToolTip": "TaskManager\\UserDashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-02T12:31:24.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DateWisePerformers.aspx",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\DateWisePerformers.aspx",
+              "RelativeDocumentMoniker": "TaskManager\\DateWisePerformers.aspx",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\DateWisePerformers.aspx",
+              "RelativeToolTip": "TaskManager\\DateWisePerformers.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-02T10:58:49.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserPerformances.aspx",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\UserPerformances.aspx",
+              "RelativeDocumentMoniker": "TaskManager\\UserPerformances.aspx",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\UserPerformances.aspx",
+              "RelativeToolTip": "TaskManager\\UserPerformances.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-02T11:46:30.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AssignScore.aspx",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\AssignScore.aspx",
+              "RelativeDocumentMoniker": "TaskManager\\AssignScore.aspx",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\AssignScore.aspx",
+              "RelativeToolTip": "TaskManager\\AssignScore.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-02T07:50:52.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DateWisePerformers.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\DateWisePerformers.aspx.cs",
+              "RelativeDocumentMoniker": "TaskManager\\DateWisePerformers.aspx.cs",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\DateWisePerformers.aspx.cs",
+              "RelativeToolTip": "TaskManager\\DateWisePerformers.aspx.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAC8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:03:02.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TaskReview.aspx",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\TaskReview.aspx",
+              "RelativeDocumentMoniker": "TaskManager\\TaskReview.aspx",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\TaskReview.aspx",
+              "RelativeToolTip": "TaskManager\\TaskReview.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-30T08:30:51.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TaskHistory.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\TaskHistory.aspx.cs",
+              "RelativeDocumentMoniker": "TaskManager\\TaskHistory.aspx.cs",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\TaskHistory.aspx.cs",
+              "RelativeToolTip": "TaskManager\\TaskHistory.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T05:17:45.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MyTask.aspx",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\MyTask.aspx",
+              "RelativeDocumentMoniker": "TaskManager\\MyTask.aspx",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\MyTask.aspx",
+              "RelativeToolTip": "TaskManager\\MyTask.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-31T07:33:29.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ReTask.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\ReTask.aspx.cs",
+              "RelativeDocumentMoniker": "TaskManager\\ReTask.aspx.cs",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\ReTask.aspx.cs",
+              "RelativeToolTip": "TaskManager\\ReTask.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T09:21:43.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Perfomances.aspx",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\Perfomances.aspx",
+              "RelativeDocumentMoniker": "TaskManager\\Perfomances.aspx",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\Perfomances.aspx",
+              "RelativeToolTip": "TaskManager\\Perfomances.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-02T09:05:32.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TaskHistory.aspx",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\TaskHistory.aspx",
+              "RelativeDocumentMoniker": "TaskManager\\TaskHistory.aspx",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\TaskHistory.aspx",
+              "RelativeToolTip": "TaskManager\\TaskHistory.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-01T05:13:21.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReTask.aspx",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\ReTask.aspx",
+              "RelativeDocumentMoniker": "TaskManager\\ReTask.aspx",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\ReTask.aspx",
+              "RelativeToolTip": "TaskManager\\ReTask.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-01T09:13:40.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Perfomances.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\Perfomances.aspx.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Perfomances.aspx.cs",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\Perfomances.aspx.cs",
+              "RelativeToolTip": "TaskManager\\Perfomances.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T09:06:28.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AssignScore.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\AssignScore.aspx.cs",
+              "RelativeDocumentMoniker": "TaskManager\\AssignScore.aspx.cs",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\AssignScore.aspx.cs",
+              "RelativeToolTip": "TaskManager\\AssignScore.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T07:53:11.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TaskReview.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\TaskReview.aspx.cs",
+              "RelativeDocumentMoniker": "TaskManager\\TaskReview.aspx.cs",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\TaskReview.aspx.cs",
+              "RelativeToolTip": "TaskManager\\TaskReview.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T08:34:21.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MyTask.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\MyTask.aspx.cs",
+              "RelativeDocumentMoniker": "TaskManager\\MyTask.aspx.cs",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\MyTask.aspx.cs",
+              "RelativeToolTip": "TaskManager\\MyTask.aspx.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwDIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T13:42:05.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "User.Master.cs",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\User.Master.cs",
+              "RelativeDocumentMoniker": "TaskManager\\User.Master.cs",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\User.Master.cs",
+              "RelativeToolTip": "TaskManager\\User.Master.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAawBMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T07:22:13.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AdminDashboard.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\AdminDashboard.aspx.cs",
+              "RelativeDocumentMoniker": "TaskManager\\AdminDashboard.aspx.cs",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\AdminDashboard.aspx.cs",
+              "RelativeToolTip": "TaskManager\\AdminDashboard.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T07:50:39.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AssignTask.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\AssignTask.aspx.cs",
+              "RelativeDocumentMoniker": "TaskManager\\AssignTask.aspx.cs",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\AssignTask.aspx.cs",
+              "RelativeToolTip": "TaskManager\\AssignTask.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T10:27:30.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AssignTask.aspx",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\AssignTask.aspx",
+              "RelativeDocumentMoniker": "TaskManager\\AssignTask.aspx",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\AssignTask.aspx",
+              "RelativeToolTip": "TaskManager\\AssignTask.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-29T10:24:52.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Style1.css",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\css\\Style1.css",
+              "RelativeDocumentMoniker": "TaskManager\\css\\Style1.css",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\css\\Style1.css",
+              "RelativeToolTip": "TaskManager\\css\\Style1.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-30T07:53:21.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Unauthorized.aspx",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\Unauthorized.aspx",
+              "RelativeDocumentMoniker": "TaskManager\\Unauthorized.aspx",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\Unauthorized.aspx",
+              "RelativeToolTip": "TaskManager\\Unauthorized.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-30T07:52:08.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SignUp.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\SignUp.aspx.cs",
+              "RelativeDocumentMoniker": "TaskManager\\SignUp.aspx.cs",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\SignUp.aspx.cs",
+              "RelativeToolTip": "TaskManager\\SignUp.aspx.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAC8AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T07:09:15.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SignUp.aspx",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\SignUp.aspx",
+              "RelativeDocumentMoniker": "TaskManager\\SignUp.aspx",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\SignUp.aspx",
+              "RelativeToolTip": "TaskManager\\SignUp.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-29T06:54:20.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\Web.config",
+              "RelativeDocumentMoniker": "TaskManager\\Web.config",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\TaskManager\\TaskManager\\Web.config",
+              "RelativeToolTip": "TaskManager\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-29T06:40:30.918Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

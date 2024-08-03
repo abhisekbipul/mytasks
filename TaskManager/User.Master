@@ -1,0 +1,45 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="User.master.cs" Inherits="TaskManager.User" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <link href="css/Style1.css" rel="stylesheet"
+    <title></title>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <a class="navbar-brand" href="#">Task Manager</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav">
+                        <li class="nav-item">
+                            <asp:HyperLink ID="hlmyTask" runat="server" NavigateUrl="~/MyTask.aspx" CssClass="nav-link">My Task</asp:HyperLink>
+                        </li>
+                        <li class="nav-item">
+                            <asp:HyperLink ID="hlTaskHistory" runat="server" NavigateUrl="~/TaskHistory.aspx" CssClass="nav-link">History</asp:HyperLink>
+                        </li>
+                        <li class="nav-item">
+                            <asp:HyperLink ID="hlRetask" runat="server" NavigateUrl="~/ReTask.aspx" CssClass="nav-link">Re-task</asp:HyperLink>
+                        </li>
+                        <li class="nav-item">
+                            <asp:HyperLink ID="hlPerfomanaces" runat="server" NavigateUrl="~/Perfomances.aspx" CssClass="nav-link">Performances</asp:HyperLink>
+                        </li>
+                        <li class="nav-item">
+                            <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/DateWisePerformers.aspx" CssClass="nav-link">Top-Performers</asp:HyperLink>
+                        </li>
+                        <li class="nav-item">
+                            <asp:LinkButton ID="btnLogout" runat="server" CssClass="nav-link" OnClick="btnLogout_Click">Logout</asp:LinkButton>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"></asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>
